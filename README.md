@@ -1,4 +1,4 @@
-# Dimensional Exile
+# Swampy Vista
 The modpack
 
-Nothing much to say here... Yet.
+A modpack where you wake up on an unknown world where all you can see is swamp.
